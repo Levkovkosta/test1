@@ -1,0 +1,23 @@
+[33mcommit cfc272bfbcc41c6b1d0dab9c42cbf8dd020c83d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtestbranch00[m[33m)[m
+Author: user.name <levkovkosta@gmail.com>
+Date:   Tue Mar 29 16:04:30 2022 +0300
+
+    new test2
+
+[33mcommit 7739d993c4b6a5940b4c94f1ffb971e5c2e1f314[m
+Author: user.name <levkovkosta@gmail.com>
+Date:   Tue Mar 29 15:58:03 2022 +0300
+
+    rem text
+
+[33mcommit 57514f9c26c9da55b9ba1c63ecc95954d362fe52[m
+Author: levkovkosta <levkovkosta@gmail.com>
+Date:   Tue Mar 29 14:36:00 2022 +0300
+
+    A new file is added
+
+[33mcommit c6caffdb23cd632236552dea768a2e19834110db[m
+Author: Levkovkosta <102583980+Levkovkosta@users.noreply.github.com>
+Date:   Tue Mar 29 12:34:08 2022 +0300
+
+    Initial commit
